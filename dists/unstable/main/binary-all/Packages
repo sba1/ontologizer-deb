@@ -1,0 +1,21 @@
+Package: ontologizer-cli
+Version: 0.0.3~20161117221416
+Installed-Size: 500
+Priority: extra
+Section: science
+Maintainer: Sebastian Bauer <mail@sebastianbauer.info>
+Architecture: all
+Description: Command-line version of Ontologizer
+  Ontologizer is a tool for the statistical analysis and visualization of
+  high-throughput biological data using Gene Ontology. This is the command
+  line version.
+MD5sum: 7c79452802cab074031f6ee2d073ea51
+SHA1: 21591545847f4bcba43336f20bd5e8fa0b62d2d4
+SHA256: 5e60bbe4d1379df4b87122403bd8ff64daf7113d24ec7c06fb6db8c992005a2f
+Source: ontologizer-cli
+Size: 471666
+Recommends: graphviz
+Homepage: http://ontologizer.de
+Filename: pool/main/o/ontologizer-cli/ontologizer.cmdline_0.0.3~20161117221416_all.deb
+Depends: default-jre-headless (>= 1:1.6)
+
